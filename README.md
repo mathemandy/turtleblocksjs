@@ -12,7 +12,7 @@ which will challenge the more adventurous student.
 > Blocks, the version included in the Sugar distribution. Sugar users
 > probably want to use Turtle Blocks rather than Turtle Blocks JS.
 
-![Turtle Blocks](https://github.com/walterbender/turtleblocksjs/raw/master/screenshots/screenshot.png "Turtle Blocks")
+![Turtle Block](https://github.com/yudeelawson/turtleblocksjs/blob/master/screenshots/updatedscreenshot.png "Turtle Block")
 
 Using Turtle Art JS
 -------------------
